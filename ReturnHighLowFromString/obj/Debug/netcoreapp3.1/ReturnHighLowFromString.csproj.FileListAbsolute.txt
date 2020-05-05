@@ -1,0 +1,13 @@
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\bin\Debug\netcoreapp3.1\ReturnHighLowFromString.exe
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\bin\Debug\netcoreapp3.1\ReturnHighLowFromString.deps.json
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\bin\Debug\netcoreapp3.1\ReturnHighLowFromString.runtimeconfig.json
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\bin\Debug\netcoreapp3.1\ReturnHighLowFromString.runtimeconfig.dev.json
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\bin\Debug\netcoreapp3.1\ReturnHighLowFromString.dll
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\bin\Debug\netcoreapp3.1\ReturnHighLowFromString.pdb
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\obj\Debug\netcoreapp3.1\ReturnHighLowFromString.csprojAssemblyReference.cache
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\obj\Debug\netcoreapp3.1\ReturnHighLowFromString.csproj.CoreCompileInputs.cache
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\obj\Debug\netcoreapp3.1\ReturnHighLowFromString.AssemblyInfoInputs.cache
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\obj\Debug\netcoreapp3.1\ReturnHighLowFromString.AssemblyInfo.cs
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\obj\Debug\netcoreapp3.1\ReturnHighLowFromString.dll
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\obj\Debug\netcoreapp3.1\ReturnHighLowFromString.pdb
+C:\Users\xlp1a\source\repos\ReturnHighLowFromString\ReturnHighLowFromString\obj\Debug\netcoreapp3.1\ReturnHighLowFromString.genruntimeconfig.cache
